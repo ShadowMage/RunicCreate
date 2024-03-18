@@ -6,8 +6,3 @@ side = "client"
 url = "https://cdn.modrinth.com/data/xERacUfv/versions/uY600uWm/lower_shield_1.14-1.20.4.zip"
 hash-format = "sha1"
 hash = "15e0de79c58ca5c40a45cdfa1c5e7b599770c3b1"
-
-[update]
-[update.modrinth]
-mod-id = "xERacUfv"
-version = "uY600uWm"
