@@ -1,0 +1,13 @@
+name = "Tarot Cards"
+filename = "tarotcards-1.20-1.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pI0D4Hrs/versions/SF4R9eYn/tarotcards-1.20-1.6.2.jar"
+hash-format = "sha1"
+hash = "ed0a7d99333c57122acda115d254af79634c78d3"
+
+[update]
+[update.modrinth]
+mod-id = "pI0D4Hrs"
+version = "SF4R9eYn"

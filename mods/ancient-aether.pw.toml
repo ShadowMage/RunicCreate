@@ -1,0 +1,13 @@
+name = "Ancient Aether"
+filename = "ancient_aether-0.8.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6mVXdiOT/versions/krQ4laTw/ancient_aether-0.8.8.jar"
+hash-format = "sha1"
+hash = "db1a52fa70d91de7a26676555feb5c5cf3be6317"
+
+[update]
+[update.modrinth]
+mod-id = "6mVXdiOT"
+version = "krQ4laTw"

@@ -1,0 +1,20 @@
+
+
+
+
+profile Saved activate HOT2
+	HOT2
+		"irons_spellbooks:scroll"
+	HOT4
+		"minecraft:diamond_axe"
+	HOT6
+		"friendsandfoes:waxed_lightning_rod"
+
+profile Saved activate HOT4
+	HOT1
+		"betterarcheology:diamond_brush"
+	HOT2
+		"minecraft:brick"
+	HOT3
+		"minecraft:suspicious_stew"
+

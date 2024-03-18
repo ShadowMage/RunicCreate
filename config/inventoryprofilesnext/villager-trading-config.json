@@ -1,0 +1,127 @@
+{
+    "globalBookmarks": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "friendsandfoes:beekeeper": [
+        ],
+        "vampirism:vampire_expert": [
+        ],
+        "___+++___ wandering ___+++___": [
+            {
+                "resultItem": "irons_spellbooks:ancient_knowledge_fragment",
+                "priceItem1": "minecraft:emerald",
+                "priceItem2": "minecraft:echo_shard"
+            }
+        ],
+        "werewolf_expert": [
+        ]
+    },
+    "globalBookmarks1": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "friendsandfoes:beekeeper": [
+        ],
+        "vampirism:vampire_expert": [
+        ],
+        "___+++___ wandering ___+++___": [
+        ],
+        "werewolf_expert": [
+        ]
+    },
+    "globalBookmarks2": {
+        "armorer": [
+        ],
+        "butcher": [
+        ],
+        "cartographer": [
+        ],
+        "cleric": [
+        ],
+        "farmer": [
+        ],
+        "fisherman": [
+        ],
+        "fletcher": [
+        ],
+        "leatherworker": [
+        ],
+        "librarian": [
+        ],
+        "mason": [
+        ],
+        "shepherd": [
+        ],
+        "toolsmith": [
+        ],
+        "weaponsmith": [
+        ],
+        "nitwit": [
+        ],
+        "none": [
+        ],
+        "friendsandfoes:beekeeper": [
+        ],
+        "vampirism:vampire_expert": [
+        ],
+        "___+++___ wandering ___+++___": [
+        ],
+        "werewolf_expert": [
+        ]
+    }
+}

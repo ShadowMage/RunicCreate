@@ -1,0 +1,13 @@
+name = "Epic Samurai's - Forge"
+filename = "epicsamurai-0.0.40-1.20.1-neo.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lMWJDrbO/versions/ZIeCHIms/epicsamurai-0.0.40-1.20.1-neo.jar"
+hash-format = "sha1"
+hash = "cdcf93c241286f8bd198fd74ad84797133580e36"
+
+[update]
+[update.modrinth]
+mod-id = "lMWJDrbO"
+version = "ZIeCHIms"

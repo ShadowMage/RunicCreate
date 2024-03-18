@@ -1,0 +1,13 @@
+name = "Runic Create"
+author = "Ansuz"
+version = "2.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "7fae1688f2de8ddf55d6882469f223b075ed1dd4195fd13cc3d71b0899a536e5"
+
+[versions]
+forge = "47.2.21"
+minecraft = "1.20.1"
