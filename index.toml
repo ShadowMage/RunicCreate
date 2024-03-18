@@ -2716,6 +2716,11 @@ hash = "1729d91efa70736b39cbfeab44c4c13141a6e3269a0aa21f32234bbc6aca8c8b"
 metafile = true
 
 [[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "1d49ff9d4f8f52975e51893b36fdddd4ec7a09e17d46664272ed27f62940980c"
 metafile = true
@@ -3078,6 +3083,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "78ce48adf5232f815201ca092f7845b15e3612d457d66fd851ebe1004c341060"
 metafile = true
 
 [[files]]
