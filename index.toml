@@ -2176,6 +2176,11 @@ hash = "709cb6e6716bed9b48a19763d0ff1dc74f30e926067214dbcd822c3ee5382cf2"
 metafile = true
 
 [[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "23fdaae1b77f170941c271fda99fb24e72f6f362b76b484c1cab6475c342d55b"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis.pw.toml"
 hash = "ea524efc9a14ddcc97dd06331db45702aec49247dcea3087550e812a0375af10"
 metafile = true
@@ -2203,6 +2208,11 @@ metafile = true
 [[files]]
 file = "mods/argonauts.pw.toml"
 hash = "f099444599c74922126b705df155c90d6fbaf71a46cc356c5f6a39414dfbefbb"
+metafile = true
+
+[[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "8122ea8a5a4a24a7bb18f5914fbe185cc0b94d77c8f54da557e02e3fb0c19556"
 metafile = true
 
 [[files]]
@@ -2356,8 +2366,23 @@ hash = "5333619ce0f7e191d409fac6cd1c5981b15fd9baee160114e4a5010d9b44761d"
 metafile = true
 
 [[files]]
+file = "mods/companion.pw.toml"
+hash = "7bf539a861e6891c358930526502ee24dc11c15a24c1e0cedda4b729864dbcb4"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "eb579d1e274aa9458acce982cd8de74dfaa63ee0bfd824c179694795008de971"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
 
 [[files]]
@@ -2581,6 +2606,11 @@ hash = "0605000880c10019e16075a1615490ebe0f5a71038960b14f779e82607342164"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trim.pw.toml"
+hash = "e4abe59c5de3f18fabd36547df36e6d0c91a76db64f006f75b97c5399451b844"
+metafile = true
+
+[[files]]
 file = "mods/easier-sleeping.pw.toml"
 hash = "fc4c3283c4f755eb185edf39a99af0114f0b165552e67f0ac1b83ada520c0081"
 metafile = true
@@ -2703,6 +2733,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "b157127a0394f1454fea877faccc69f2cca1c53417073b100e786eee7d7423ae"
 metafile = true
 
 [[files]]
@@ -3031,6 +3066,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/nerb.pw.toml"
+hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "da8adfd1a2ab5e050fc182940c9bf972cbcafdbb12e22fe8274ccf47c71e9899"
 metafile = true
@@ -3148,6 +3188,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "02f011e82990c4d2fcb62a62707a7652304dff5e6664c49eff41e1e5ab9467f3"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "456a6afb9efe768e49e3fb427d0fac43e7af6534794b0e0873879341d3d82efd"
 metafile = true
 
 [[files]]
@@ -3411,18 +3456,13 @@ hash = "27ce425a37a199d950bd64bd1194a6245b2c0c0202ca30ebcdb918b34bff2812"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "178818392bbf7f759f5ac91784336cd89390d76d869264cf00226fdc744fc80b"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "71be477b6c9fd252a7f2c9924e79b8512554e40413cdd3d69cbf493761c29ee5"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "5bed668581e3b25a54977d9a32802761259d8cc3f8aed0814b8460d063047e22"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "c14ecb42e2380cfae9682cdbba81affcf73de0ee9e86a94c420a9b92382e01a1"
 metafile = true
 
 [[files]]
@@ -3474,10 +3514,6 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "eaa9678b7f6aee59266500c8d3fec01f7bce7c8fe5a0517747e9676cb0d2f1fc"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "7d1838c55d357b12664c036097a4cb8c74b01e8bb0978574721acdc7ebf66396"
 
 [[files]]
 file = "resourcepacks/lowershield.pw.toml"
