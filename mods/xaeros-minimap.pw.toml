@@ -11,3 +11,8 @@ hash = "21d6f4675ef4c37566516066ce61b49fa6d32901"
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "9qSU7GXL"
+
+[option]
+optional = true
+default = false
+description = "Minimap and Waypoints! You probably want to disable Antique Atlas."
