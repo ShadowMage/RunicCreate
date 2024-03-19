@@ -1,0 +1,13 @@
+name = "Stellar View"
+filename = "Stellar View-1.20.1-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iairjv0A/versions/oPPCUpHD/Stellar%20View-1.20.1-0.2.2.jar"
+hash-format = "sha1"
+hash = "03f72ba67c5172bfbda45e0ecc6e91daf52fb3f1"
+
+[update]
+[update.modrinth]
+mod-id = "Iairjv0A"
+version = "oPPCUpHD"

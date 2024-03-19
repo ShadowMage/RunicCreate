@@ -3336,6 +3336,11 @@ hash = "fe8022c85a493055438172cdca2945f8bbc36d9d39a247df00e0670c7aaab585"
 metafile = true
 
 [[files]]
+file = "mods/stellarview.pw.toml"
+hash = "181543ba6c96e902af601e09e0dccaa95b57de75fd30e3c376badb89ea1c3613"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "2ade5de0316cdd378dd3543244d19bee9c84976863e8819f2920f3116843b31d"
 metafile = true
