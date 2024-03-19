@@ -20,7 +20,7 @@ oldDeathpoints:true
 distance:1
 lockNorth:false
 zoom:0
-minimapSize:0
+minimapSize:94
 chunkGrid:-1
 slimeChunks:false
 mapSafeMode:false
@@ -54,6 +54,7 @@ waypointOpacityMap:90
 hideWorldNames:1
 openSlimeSettings:true
 alwaysShowDistance:false
+renderLayerIndex:1
 crossDimensionalTp:true
 biomeColorsVanillaMode:false
 lookingAtAngle:10
@@ -69,7 +70,7 @@ hideWaypointCoordinates:false
 renderAllSets:false
 playerArrowOpacity:100
 waypointsBottom:false
-minimapShape:1
+minimapShape:0
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
@@ -100,7 +101,7 @@ enlargedMinimapAToggle:false
 displayStainedGlass:true
 waypointOnMapScale:0
 switchToAutoOnDeath:true
-infoDisplayBackgroundOpacity:40
+infoDisplayBackgroundOpacity:46
 caveModeToggleTimer:1000
 legibleCaveMaps:false
 biomeBlending:true
@@ -130,5 +131,5 @@ interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:gui.xaero_minimap:-7:-6:false:false:false:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
