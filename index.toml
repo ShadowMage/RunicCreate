@@ -2336,6 +2336,11 @@ hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "15d65f901f559351228e4afd9282df5d0577d2525c509f8358cf9e071cd778ad"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight.pw.toml"
 hash = "5a793d8130c84c538c51a3e6a907c0ca0b5d791aba54904962567d361148724b"
 metafile = true
@@ -2358,6 +2363,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "3bfb89c4d79052b3052da2713e3250225851e362b8979f8534538c1fdec257f7"
+metafile = true
+
+[[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "0c7c61055551d9e018a1f25716151a0e5778ce5964394ce30508282d696ac91c"
 metafile = true
 
 [[files]]
@@ -2671,6 +2681,11 @@ hash = "8103d9e0f49919e1868b5c6f82430b648148bb22c0f6ce24982f54070b6a5ce4"
 metafile = true
 
 [[files]]
+file = "mods/ensorcellation.pw.toml"
+hash = "a0af3b2ea38a344d8cbb1b1d686e9c9d0a6391d3d8e59d59c05f41523ff429c1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f01df0e97d136b72ca54b9eaacbdb9adcdadc9bb6cc6d6b80a045e5a99bf5f95"
 metafile = true
@@ -2833,6 +2848,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "3f8021342d54a239164712721bf5c0c424b47eb689fd573d68e44681904998c3"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "eef29e49c6a18f0361586eb2ff2c966bd8a869d2c5a10bae8a0519d65495d79e"
 metafile = true
 
 [[files]]
@@ -3041,6 +3061,11 @@ hash = "d71fd32a56325b8fe378cfafe78f81d985436b2fd44638f5bab1f1386680b096"
 metafile = true
 
 [[files]]
+file = "mods/moyai.pw.toml"
+hash = "6bf13472a293a9e995918e085ebc294d178447f84e55258935c43a3dafe08ff6"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "6529f55293851714d814fa53a71b8af9182fbaae0f77313efe241f89ca5c485d"
 metafile = true
@@ -3106,6 +3131,11 @@ hash = "524acd510387c61c5f3c984e605fae03015434ae756b683d3b45a95951180394"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "43a978d4f0267a8411fcc22a64c022a43ae150f0005cbaddd2d0094629437291"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -3133,6 +3163,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "afb301ed55a33af3374b3718da3ba588228b057accbf167741ce1747905dd4f8"
+metafile = true
+
+[[files]]
+file = "mods/primal-magick.pw.toml"
+hash = "98b7480d4d4925df6e7298f19986130a7924927b4a15746ccf6cf24ca02002fc"
 metafile = true
 
 [[files]]
@@ -3398,11 +3433,6 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "b30268af73bb1b6a3e8413f0454c61c8b5150b6774e74ac7b002948c2f794a41"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "f836c2365476322130a2ae84481478206adfa576b4904cea93d26f7f22546d0d"
 metafile = true
 
 [[files]]
