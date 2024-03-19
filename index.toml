@@ -1957,14 +1957,6 @@ file = "config/tradingpost-server.toml"
 hash = "9b8e43967d82532c59db13620f764f47ab6aef83fdf6ad50f71a24a384c34f7c"
 
 [[files]]
-file = "config/travelersbackpack-client.toml"
-hash = "1006defaeddb1f7926c36422e18dd387d713584bf3313d4555e09af492e30684"
-
-[[files]]
-file = "config/travelersbackpack-common.toml"
-hash = "f57a4bd9481bcee1c46883d8538ff5a3ec89de9c10f46af8b2e483175fdd0a49"
-
-[[files]]
 file = "config/twilightdelight-client.toml"
 hash = "8c145f814d98a7a9465efb9496c5ebe703b89c92c6f5f43bb18a65e36a2d7f17"
 
@@ -2082,11 +2074,11 @@ hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "38f3bf314af0bcc2eed7991d0b04167aab52b836d9cbefef3ca55c53aa55e24a"
+hash = "1c47037d15a12a718a9565c0228978eb3abccdd73766437cd9b915fd74ec8722"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "a76f9c9edfa1ad95fd4f6b3a2c03e230652b1b28104bd86453cafd18e07cf3c0"
+hash = "df06421b9e254d6f58f4e9210a8a4919192de2c34b0a787c34c17a5a80aa5d02"
 
 [[files]]
 file = "config/xaeropatreon.txt"
@@ -2098,7 +2090,7 @@ hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "08783aeef52bff01762a13cba7b11f5fd4f7e813f51fad0dd423299ea3e3d85c"
+hash = "472184177361defe6a23db5ddffba18f1c64c43191fc94be2d3ee112799a7e82"
 
 [[files]]
 file = "mods/ad-astra-giselle-addon.pw.toml"
