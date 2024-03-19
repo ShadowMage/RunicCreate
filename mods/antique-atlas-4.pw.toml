@@ -11,3 +11,8 @@ hash = "5b06e15397726f2841ed667281c1a00bad304aef"
 [update.modrinth]
 mod-id = "Y5Ve4Ui4"
 version = "aotdezQJ"
+
+[option]
+optional = true
+default = true
+description = "A more subdued map that focuses on exploration. You probably want to disable Xaero's Minimap and Worldmap"

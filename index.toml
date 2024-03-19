@@ -2177,7 +2177,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "23fdaae1b77f170941c271fda99fb24e72f6f362b76b484c1cab6475c342d55b"
+hash = "06543450e2db424b3c8217be82e5e674b5d4226f4a787d562171d402c0b9eff8"
 metafile = true
 
 [[files]]
@@ -3508,6 +3508,16 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "71be477b6c9fd252a7f2c9924e79b8512554e40413cdd3d69cbf493761c29ee5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "95296345f4988a16a899d39da2ab09769793b4908be604b634e03465469a9407"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d0c80e264d737c6f3f2163b1ee4895d698542620a5b85a934a685f71e66a24fe"
 metafile = true
 
 [[files]]
