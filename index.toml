@@ -2296,6 +2296,11 @@ hash = "1eba2958ca157bb11a8a3c99a83ecb256ebd78f2757fc54822d7e6b5f73080c6"
 metafile = true
 
 [[files]]
+file = "mods/block-of-sky.pw.toml"
+hash = "971c2e4bad7c3176e051734ee22fbc08236485af07273eed24a4201844682752"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "8f52c032c99b10247cdaae36b4aef5d76173109ea4067c0c4479c562f2740bde"
 metafile = true
@@ -2963,6 +2968,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "cd74d3de1cd246e509142cbee67c94b652aecb49927bf3c30f84081c54d41f5c"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "9dcdb1f7ccdff95be4cf8eb235f42af8eb4abf6ad555e44fdbad923823f2c676"
 metafile = true
 
 [[files]]
