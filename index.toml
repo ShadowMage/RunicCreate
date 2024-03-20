@@ -3303,11 +3303,6 @@ hash = "f778669cfc9569ab26995ce292f85c95ec8d3b3a1df71064860fda3a253610aa"
 metafile = true
 
 [[files]]
-file = "mods/saturn.pw.toml"
-hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
-metafile = true
-
-[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "02f011e82990c4d2fcb62a62707a7652304dff5e6664c49eff41e1e5ab9467f3"
 metafile = true
