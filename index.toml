@@ -2593,6 +2593,11 @@ hash = "2556e3b026a3cd00bad5d7da0894d1d2e8dbb5afeabb877367bd489659ec80c9"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "1cb1ed842db59e479dc2b21cf8afb8eeb9ff4577d292e6b51ed8df98e24411d5"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "4a50004956aa8805ab65f043a9fb0f707a5988191dddb6f65e7261fe17e11521"
 metafile = true
@@ -2773,6 +2778,11 @@ hash = "24ae0283727c10f1197e3fc6baff34712248a35e8380d86e4822c7752703cd14"
 metafile = true
 
 [[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "6b66ea9ae3f8e8750041d3ec17d471f496f29235c4f151f921bcd64f329820a9"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
 metafile = true
@@ -2785,6 +2795,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "be1fd0b8eb79cd38be8b722a509beb2bea6a97a60d62100aa3f75eb85fff8d4c"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "67efb201c75f6b864cfaaaf5815bb74ade6f348911906d5ca2868801fcfaf5d4"
 metafile = true
 
 [[files]]
@@ -3073,6 +3088,11 @@ hash = "3f7bdeb890594497caa9fb7a05e340480d520b0a35c4ed47e044c041badeb5da"
 metafile = true
 
 [[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "62cbc36bcadc18478adcbd138ed6f976f9625ec75c687acdb83b26fbda8d08b2"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
 metafile = true
@@ -3130,6 +3150,11 @@ metafile = true
 [[files]]
 file = "mods/mythic-mounts.pw.toml"
 hash = "6eee76254a98d89d1b6d0481ef1990e2ae92a7e97bfe5e9569bfff468b95f547"
+metafile = true
+
+[[files]]
+file = "mods/natures-aura.pw.toml"
+hash = "6b16e3fbaa46394441f867785fec5ae465f4f75b412a9b9bf211f8ab4345c530"
 metafile = true
 
 [[files]]
@@ -3378,6 +3403,11 @@ hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
 metafile = true
@@ -3488,6 +3518,11 @@ hash = "160e6c86655e71ce18b4ac3463ba9eccf51e405a6846541536e95371b0063929"
 metafile = true
 
 [[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "1cdd0ae957768fb46e20c3b1b650d2de8c5a7525993e169bd7c945e524fdf4bb"
+metafile = true
+
+[[files]]
 file = "mods/tome-of-blood-rebirth.pw.toml"
 hash = "b22da6c7e7b31016cde8c5b3c8757e075b0fb2130da59193fb51544232b592ac"
 metafile = true
@@ -3525,6 +3560,11 @@ metafile = true
 [[files]]
 file = "mods/ultris.pw.toml"
 hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "291b739cd1f5c3faa1d9c7de0ef3b414f479dfd71ef6c0eed4f79eeba4514ac3"
 metafile = true
 
 [[files]]
