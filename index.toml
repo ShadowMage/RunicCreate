@@ -2918,6 +2918,11 @@ hash = "b54bcb74269ae5750d55f26cf890871fcc5b0184f8feacee2a5de4af65036818"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "9169161ae0d7004d0aac6933cef40db9fc64e876cf81bca2d84bdf663945e003"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "ee91acdffc481f535911c38fbc06c62c85e6531a2ee7e4e116401b3ad544e74a"
 metafile = true
@@ -3138,6 +3143,11 @@ hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "30f0a4bf5e21ef6f8e0085708eddac8886cfe787cef535097cea9f4f53605bcd"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "78db2c329fdaebddaff88e17b28c9fa0791497ace8fe2337ab1516129b2bd994"
 metafile = true
@@ -3165,6 +3175,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "22821ead458f364f73ec299937d86daffa8bdd0d558f7597be2802cb20e7e656"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "83847f2b35a8db150f8b5af2ab5ac2d2e3be38b844477d21754794201ec81127"
 metafile = true
 
 [[files]]
