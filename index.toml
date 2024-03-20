@@ -2153,6 +2153,11 @@ hash = "31ffa76bd9a3c67091e4746a34828fd7f50e216b9c388199846295d4c5f40fd4"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "8c4e8adf119e1cecee4ad94dec5a636846b73b7a45264e94434e90dff019eaf8"
 metafile = true
@@ -2393,6 +2398,16 @@ hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
 metafile = true
 
 [[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "ecc388b51d9aedef572be1025a346d4afae20fa4b93002fd6cf3674c154d7134"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "e0015a058c703f8c670b5e557a3236e668fd2909fa13a4227519e7ce858e8186"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "7f98e3461e1319ef01a91a8258aa2d932179d0406280d980b356ddbfbef52213"
 metafile = true
@@ -2583,6 +2598,16 @@ hash = "4a50004956aa8805ab65f043a9fb0f707a5988191dddb6f65e7261fe17e11521"
 metafile = true
 
 [[files]]
+file = "mods/diagonal-walls.pw.toml"
+hash = "c50728130339ba1c3bae1216a2c042929c7894dc55f42e0a7399929b90715514"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+hash = "0d10c54157aa6d5bb1c515876ef42ed6f0211fa42430efcc832109d61003c422"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaltraders.pw.toml"
 hash = "02d04e77759402d531357106af84b584d3e25760d4dbd20111bbf5d6651fdd0f"
 metafile = true
@@ -2645,6 +2670,11 @@ metafile = true
 [[files]]
 file = "mods/easy-villagers.pw.toml"
 hash = "5562ace4b9b8931b01f839979813d62af44dea6947a246df8ae7dc1761c8b720"
+metafile = true
+
+[[files]]
+file = "mods/echo-chest.pw.toml"
+hash = "f54b4e22cd38e3d2e01155c2ff0cdc639e2dcca72abe0472d59ed87681c7df95"
 metafile = true
 
 [[files]]
@@ -2908,6 +2938,11 @@ hash = "98727baa5596efd274e4f99cddda4f289931bc14f527261c76f1f959fc3a0eb3"
 metafile = true
 
 [[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "3e7972e002c83cec1c92da444fed68ec30dcc36db0c8812d0431c81d33467c00"
+metafile = true
+
+[[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "2bc2974c8a78fbb020c5ed1d568e2539d090803cedc1fe9ac3a64b9ba8e06cef"
 metafile = true
@@ -3030,6 +3065,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "3f7bdeb890594497caa9fb7a05e340480d520b0a35c4ed47e044c041badeb5da"
+metafile = true
+
+[[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "413d504f5b032628c7e240d2c669c692685f5707f63eca045f4b27a5ac4e66ce"
 metafile = true
 
 [[files]]
@@ -3183,6 +3223,11 @@ hash = "af94e8930aa37a5be7510b721d3cde32e40ef60964cd10bf701491a43ba4744a"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "0d4a48d89d0962c8b5589be857161699256da13162b6b39f54c07595ef13912c"
 metafile = true
@@ -3190,6 +3235,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "663b996b6ebea5c1ba69e70484a3a9980961408e08373b3ddc0a6921b1752dbd"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "8d473cabdb536aa16644542972f17f5aaa15ba4a3e225064ffcf29b21a118076"
 metafile = true
 
 [[files]]
@@ -3443,6 +3493,11 @@ hash = "b30268af73bb1b6a3e8413f0454c61c8b5150b6774e74ac7b002948c2f794a41"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "3c9b481baf1f2eca22fe731934427e1d832fc4344a73c7b0f6e1880735c7e4dd"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "dad1eaefe4050aa29a82958c4f956ec28a140791d458e75757fef8b939210972"
 metafile = true
@@ -3560,6 +3615,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "eaa9678b7f6aee59266500c8d3fec01f7bce7c8fe5a0517747e9676cb0d2f1fc"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "ffa25af53cf0e78b250f5f1a3267c47a763e67b048f18aea8228508240c535f9"
 metafile = true
 
 [[files]]
