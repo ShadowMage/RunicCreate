@@ -1713,6 +1713,10 @@ file = "config/puzzlesapi-slotcycling-client.toml"
 hash = "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "d4998b015cc9e79c7785befa856db9054b466bc167eefc8342e6910f0e011d3e"
+
+[[files]]
 file = "config/railways-client.toml"
 hash = "f821ef55eea1edb3d6bc8d76b7f6f5a8928356def9dd259e7372ced01dcc04b9"
 
@@ -3160,11 +3164,6 @@ metafile = true
 [[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
-metafile = true
-
-[[files]]
-file = "mods/neruina.pw.toml"
-hash = "30f0a4bf5e21ef6f8e0085708eddac8886cfe787cef535097cea9f4f53605bcd"
 metafile = true
 
 [[files]]
