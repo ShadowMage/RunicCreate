@@ -2698,11 +2698,6 @@ hash = "d11fc9aac19a0a0af26884321b1b4205e55120e9583bb7323e9cbdb25925fbba"
 metafile = true
 
 [[files]]
-file = "mods/ender-mail.pw.toml"
-hash = "5591f871b2a93fb393c35a3f284f3dbe6b678548c95304d858d00d9d3d2a618f"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "5f64aa9d7e7e9411c1b9a6388c249da8782d911f790146b057a5be615fa8bacc"
 metafile = true
