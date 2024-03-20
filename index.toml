@@ -2773,11 +2773,6 @@ hash = "24ae0283727c10f1197e3fc6baff34712248a35e8380d86e4822c7752703cd14"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "6b66ea9ae3f8e8750041d3ec17d471f496f29235c4f151f921bcd64f329820a9"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "ce34a8d15dcff8b7f1328115cabb897e0b5d63ca90822e16318846df2d6f7552"
 metafile = true
@@ -3158,6 +3153,11 @@ hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e0ff6237f41b61f33ab261f1845bb588e134316d3dbb6433dfd0fde645e82bfd"
+metafile = true
+
+[[files]]
 file = "mods/nerb.pw.toml"
 hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
@@ -3255,11 +3255,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "af94e8930aa37a5be7510b721d3cde32e40ef60964cd10bf701491a43ba4744a"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "e02cf24e798f2a3d5bcf83440a8a220a62871a326753f7991d61b8c6113791f5"
 metafile = true
 
 [[files]]
@@ -3550,11 +3545,6 @@ metafile = true
 [[files]]
 file = "mods/ultris.pw.toml"
 hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "291b739cd1f5c3faa1d9c7de0ef3b414f479dfd71ef6c0eed4f79eeba4514ac3"
 metafile = true
 
 [[files]]
