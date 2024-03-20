@@ -11,3 +11,8 @@ hash = "bbe64fd565ec7934ebe70ec7f8a8a17134a0f981"
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "O8WpvCPU"
+
+[option]
+optional = true
+default = false
+description = "The traditional worldmap experience. Needs Xaero's Minimap to use Waypoints. You probably want to disable Antique Atlas"
